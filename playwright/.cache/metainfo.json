@@ -1,0 +1,64 @@
+{
+  "version": "1.26.1",
+  "viteVersion": "3.1.4",
+  "registerSourceHash": "b1759fca722a02ace7d29a8f24bcb809a0df98ee",
+  "components": [
+    {
+      "fullName": "_Users_peter_dev_pwissue_import_options_src_OtherComponent_tsx",
+      "importPath": "/Users/peter/dev/pwissue-import-options/src/OtherComponent.tsx",
+      "isModuleOrAlias": false
+    }
+  ],
+  "tests": {
+    "/Users/peter/dev/playwright-issue/src/App.pw.tsx": {
+      "timestamp": 1665404881088.6914,
+      "components": [
+        "_Users_peter_dev_playwright_issue_src_OtherComponent_tsx"
+      ]
+    },
+    "/Users/peter/dev/pwissue-import-options/src/OtherComponent.pw.tsx": {
+      "timestamp": 1665405444322.1995,
+      "components": [
+        "_Users_peter_dev_pwissue_import_options_src_OtherComponent_tsx"
+      ]
+    }
+  },
+  "sources": {
+    "/Users/peter/dev/pwissue-import-options/playwright/index.html": {
+      "timestamp": 1665405300446.3005
+    },
+    "/Users/peter/dev/pwissue-import-options/playwright/index.ts": {
+      "timestamp": 1665405300446.747
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/react/index.js": {
+      "timestamp": 1658832882612.999
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/react-dom/index.js": {
+      "timestamp": 1658832883298
+    },
+    "/Users/peter/dev/pwissue-import-options/src/OtherComponent.tsx": {
+      "timestamp": 1665405300457.6018
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/react/cjs/react.production.min.js": {
+      "timestamp": 1658832882612.999
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/react-dom/cjs/react-dom.production.min.js": {
+      "timestamp": 1658832883298
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/react/jsx-runtime.js": {
+      "timestamp": 1658832882612.999
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/object-assign/index.js": {
+      "timestamp": 1658832874344
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/scheduler/index.js": {
+      "timestamp": 1658832883323.999
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/react/cjs/react-jsx-runtime.production.min.js": {
+      "timestamp": 1658832882612.999
+    },
+    "/Users/peter/dev/pwissue-import-options/node_modules/scheduler/cjs/scheduler.production.min.js": {
+      "timestamp": 1658832883323.999
+    }
+  }
+}
